@@ -1,6 +1,6 @@
 {
-    "full_name": "Jawed Salim",
-    "email": "jawed@example.com",
+    "full_name": "John Doe",
+    "email": "johndoe@example.com",
     "website_name": "website-sample",
-    "version": "0.2.0"
+    "version": "0.1.1"
 }
